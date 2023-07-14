@@ -1,0 +1,259 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300;700&family=Roboto&display=swap');
+
+
+*{
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #ffffff;
+    text-align: right;
+    font-family: 'Karla', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+main{
+ background-color: #ffffff;
+ margin: 880px 10px 10px 10px;
+}
+
+/*----*/
+
+header{
+background-image: url(img/angel.jpg);
+background-size: cover;
+width: 1902px;
+height: 951px;
+margin: -1px -74px 185px 0px;
+}
+
+.textoimg h1{
+    position: absolute;
+    margin: 345px -74px 185px 696px;
+    font-family: 'Karla', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 219px;
+}
+
+/*----*/
+
+.img1 h3{
+
+    margin: -612px 74px 15px 298px;
+    color: #363636;
+    font-size: 55px;
+    float: left;
+    padding: 2px 2px 2px 2px;
+    text-align: left;
+    font-weight: 700px;
+
+    
+}
+
+
+
+.img1 .imgside1{
+    margin: -722px 182px 15px 92px;
+}
+
+.img1 .imgsideD{
+    float: left;
+    margin: -687px 74px 15px 298px;
+}
+
+.img1 p{
+    float: left;
+    margin: -462px 1080px 15px 298px;
+    text-align: left;
+    line-height: 29px;
+    font-size: 21px;
+    font-family: 'Karla', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.img1 button{
+    background-color: #fd4c5c;
+    margin: -296px 80px 15px -1599px;
+    padding: 14px 53px 17px 47px;
+    position: absolute;
+    border-style: none;
+    border-radius: 50px;
+    color: #ffffff;
+
+
+}
+
+
+/*----*/
+
+
+
+.img2 h3{
+
+    margin: -663px 41px 15px 926px;
+    color: #363636;
+    font-size: 55px;
+    float: left;
+    padding: 2px 2px 2px 2px;
+    text-align: left;
+    font-weight: 700px;
+
+    
+}
+
+.img2 .imgside2{
+    margin:-713px 1046px 15px 67px;
+}
+
+.img2 .imgsideD2{
+    float: left;
+    margin: -733px 74px 15px 923px;
+}
+
+.img2 p{
+    float: right;
+    margin: -488px 352px 15px 933px;
+    text-align: left;
+    line-height: 29px;
+    font-size: 21px;
+    font-family: 'Karla', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.img2 button{
+    background-color: #fd4c5c;
+    margin: -321px 80px 15px -949px;
+    padding: 14px 53px 17px 47px;
+    position: absolute;
+    border-style: none;
+    border-radius: 50px;
+    color: #ffffff;
+
+
+}
+
+/*----*/
+
+.tituloVibes{
+    padding: 10px 10px 10px 10px;
+    margin: 73px -21px 23px -12px;
+    background-image: url(img/raptis.png);
+    width: 1905px;
+    height: 793px;
+    background-size: cover;
+    float: left;
+}
+
+.vibesh3 h3{
+    margin: 249px 41px 15px 1129px;
+    color: #ffffff;
+    font-size: 55px;
+    float: left;
+    padding: 2px 2px 2px 2px;
+    text-align: left;
+    font-weight: 700px;
+}
+
+
+.tituloVibes p{
+    float: right;
+    margin: 3px 235px 15px 1140px;
+    text-align: left;
+    line-height: 29px;
+    font-size: 21px;
+    font-family: 'Karla', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+}
+
+.tituloVibes button{
+    background-color: #fd4c5c;
+    margin: 572px 80px 15px -746px;;
+    padding: 14px 53px 17px 47px;
+    position: absolute;
+    border-style: none;
+    border-radius: 50px;
+    color: #ffffff;
+
+}
+
+/*----*/
+
+footer{
+    background-color: #fd4c5c;
+    padding: 546px 10px 10px 10px;
+    margin: 880px -9px -37px -12px;
+}
+
+
+footer .lista1 {
+    margin: -281px 836px -231px 25px;
+    color: #ffffff;
+    float: left;
+}
+
+footer .lista1 ul li{
+    margin: -546px 1477px 169px 277px;
+    list-style: none;
+    text-align: left;
+    position: relative;
+    padding: 372px 10px 10px 10px;
+}
+
+footer .lista2 {
+    margin: -281px 836px -231px 25px;
+    color: #ffffff;
+    float: left;
+}
+
+footer .lista2 ul li{
+    margin: -546px 896px 169px 554px;
+    list-style: none;
+    text-align: left;
+    position: relative;
+    padding: 372px 10px 10px 10px;
+}
+
+
+footer .lista3 {
+    margin: -281px 836px -231px 25px;
+    color: #ffffff;
+    float: left;
+}
+
+footer .lista3 ul li{
+    margin: -546px 896px 169px 797px;
+    list-style: none;
+    text-align: left;
+    position: relative;
+    padding: 372px 10px 10px 10px;
+}
+
+footer .lista4 {
+    margin: -281px 836px -231px 25px;
+    color: #ffffff;
+    float: left;
+}
+
+footer .lista4 ul li{
+    margin: -546px 715px 169px 1055px;
+    list-style: none;
+    text-align: left;
+    position: relative;
+    padding: 372px 10px 10px 10px;
+}
+
+footer .derechos{
+    color: #ffffff;
+    margin: -128px 1362px 169px 34px;
+
+}
+
+footer .correo{
+    color: #ffffff;
+    margin: -179px 397px 169px 81px;
+}
+
